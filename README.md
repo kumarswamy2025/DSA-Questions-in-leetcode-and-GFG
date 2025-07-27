@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0206-reverse-linked-list) |
+## Array
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0739-daily-temperatures) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
