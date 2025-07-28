@@ -43,4 +43,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0238-product-of-array-except-self) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0392-is-subsequence) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
