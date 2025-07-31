@@ -1,5 +1,5 @@
 class Solution {
-    public boolean isPalindrome(String s) {
+    public boolean isPalindrome(String s) { // we used appoarch two pointers apporach
         // remoce write spaces between words
         s = s.toLowerCase().replaceAll("[^a-z0-9]", "");
         int right=s.length()-1;
