@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0392-is-subsequence) |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0334-increasing-triplet-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
