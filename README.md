@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0169-majority-element) |
 | [0778-reorganize-string](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0778-reorganize-string) |
 | [0817-design-hashmap](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0817-design-hashmap) |
+| [1297-maximum-number-of-balloons](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/1297-maximum-number-of-balloons) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0169-majority-element) |
 | [0778-reorganize-string](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0778-reorganize-string) |
+| [1297-maximum-number-of-balloons](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/1297-maximum-number-of-balloons) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0392-is-subsequence) |
 | [0778-reorganize-string](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0778-reorganize-string) |
 | [0873-guess-the-word](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0873-guess-the-word) |
+| [1297-maximum-number-of-balloons](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/1297-maximum-number-of-balloons) |
 ## Dynamic Programming
 |  |
 | ------- |
