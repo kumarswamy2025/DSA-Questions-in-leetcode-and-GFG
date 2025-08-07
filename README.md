@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0206-reverse-linked-list) |
+| [0817-design-hashmap](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0817-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0334-increasing-triplet-subsequence) |
 | [0739-daily-temperatures](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0739-daily-temperatures) |
+| [0817-design-hashmap](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0817-design-hashmap) |
 | [0873-guess-the-word](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0873-guess-the-word) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Stack
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0169-majority-element) |
 | [0778-reorganize-string](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0778-reorganize-string) |
+| [0817-design-hashmap](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0817-design-hashmap) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -110,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0873-guess-the-word](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0873-guess-the-word) |
+## Design
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0817-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
