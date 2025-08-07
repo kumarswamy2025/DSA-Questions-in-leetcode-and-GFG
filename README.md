@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0334-increasing-triplet-subsequence) |
 | [0739-daily-temperatures](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0739-daily-temperatures) |
+| [0873-guess-the-word](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0873-guess-the-word) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Stack
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0392-is-subsequence) |
 | [0778-reorganize-string](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0778-reorganize-string) |
+| [0873-guess-the-word](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0873-guess-the-word) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0189-rotate-array) |
+| [0873-guess-the-word](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0873-guess-the-word) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Greedy
 |  |
@@ -99,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0778-reorganize-string) |
+## Interactive
+|  |
+| ------- |
+| [0873-guess-the-word](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0873-guess-the-word) |
+## Game Theory
+|  |
+| ------- |
+| [0873-guess-the-word](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0873-guess-the-word) |
 <!---LeetCode Topics End-->
