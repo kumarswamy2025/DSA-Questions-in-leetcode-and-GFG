@@ -8,61 +8,73 @@
 
 
 class Solution {
-    public int match(String s1, String s2) {
-        int n = s1.length();
-        int cnt = 0;
-        for (int i = 0; i < n; i++) {
-            if (s1.charAt(i) == s2.charAt(i)) {
-                cnt++;
-            }
-        }
-        
-        return cnt;
-    }
+    
 
     public void findSecretWord(String[] words, Master master) {
-        int n = words.length;
-        int idx = (int) (Math.random() * n);
-        int val = master.guess(words[idx]);
-        if (val == 6) {
-            return;
-        }
+        // calling brute force appoarch
+       // bruteForce(words, master);
 
-        List<String> list = new ArrayList<>();
-        for (int i = 0; i < n; i++) {
-            if (i == idx) {
-                continue;
-            }
-            int tmp = match(words[idx], words[i]);
-            if (tmp == val) {
-                list.add(words[i]);
+        //  calling optimal apporach
+        optimalApporach(words, master);
+    }
+    
+    // we can solve this problem using brute force apoarch but we got time
+    // complexity error
+    static void bruteForce(String[] words, Master master) {
+        for (String i : words) {
+            if (master.guess(i) == 6) {
+                return;
             }
         }
+    }
 
-        while (list.size() > 1) {
-            int rand = (int) (Math.random() * list.size());
-            String selectedWord = list.get(rand);
-            val = master.guess(selectedWord);
-            if (val == 6) {
+    // we can solve this problem using optimal apporach
+    // video : https://www.youtube.com/watch?v=COnrhAabeos
+    static void optimalApporach(String[] words, Master master) { 
+
+        // Apporach: pick random word find match value and master.guess value if both
+        // are equal then add it
+
+        // stores array of words
+        List<String> wordList = new ArrayList<>(Arrays.asList(words));
+
+        Random random = new Random(); // used to pick random word
+        // itertate wordlist and pick randiom word
+        while (!wordList.isEmpty()) { 
+
+            // pick random word
+            String guessWord = wordList.get(random.nextInt(wordList.size()));
+
+            // finding guess value
+
+            int matchValue = master.guess(guessWord);
+
+            if (matchValue == 6) { // ifn match value is equal to 6 then we find secdrete key
                 return;
             }
 
-            List<String> newList = new ArrayList<>();
-            for (String word : list) {
-                if (word.equals(selectedWord)) {
-                    continue;
-                }
-                int tmp = match(selectedWord, word);
-                if (tmp == val) {
-                    newList.add(word);
+            // Filter wordList to keep only those with the same match count
+            List<String> filteredList = new ArrayList<>();
+            for (String word : wordList) {
+                if (matchCount(guessWord, word) == matchValue) {
+                    filteredList.add(word);
+
                 }
             }
-            list = newList;
+             wordList = filteredList;
+
         }
-        
-        // If one word remains, then it the our final answer so guess it and complete the game sucessfully
-        if (list.size() == 1) {
-            master.guess(list.get(0));
+    }
+
+    // Helper function to count character matches at same positions
+    static int matchCount(String a, String b) {
+        int count = 0;
+        for (int i = 0; i < 6; i++) {
+            if (a.charAt(i) == b.charAt(i)) {
+                count++;
+            }
         }
+        return count;
+
     }
 }
