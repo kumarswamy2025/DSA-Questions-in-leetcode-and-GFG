@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0739-daily-temperatures) |
 | [0817-design-hashmap](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0817-design-hashmap) |
 | [0873-guess-the-word](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0873-guess-the-word) |
+| [1635-number-of-good-pairs](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/1635-number-of-good-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Stack
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0778-reorganize-string) |
 | [0817-design-hashmap](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0817-design-hashmap) |
 | [1297-maximum-number-of-balloons](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/1297-maximum-number-of-balloons) |
+| [1635-number-of-good-pairs](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/1635-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0169-majority-element) |
 | [0778-reorganize-string](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0778-reorganize-string) |
 | [1297-maximum-number-of-balloons](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/1297-maximum-number-of-balloons) |
+| [1635-number-of-good-pairs](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/1635-number-of-good-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0189-rotate-array) |
 | [0873-guess-the-word](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0873-guess-the-word) |
+| [1635-number-of-good-pairs](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/1635-number-of-good-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Greedy
 |  |
