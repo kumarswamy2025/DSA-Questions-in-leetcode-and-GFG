@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0334-increasing-triplet-subsequence) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0383-ransom-note) |
 | [0778-reorganize-string](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0778-reorganize-string) |
 | [0817-design-hashmap](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0817-design-hashmap) |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0817-design-hashmap) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
