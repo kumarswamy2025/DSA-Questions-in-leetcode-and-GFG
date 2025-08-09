@@ -1,11 +1,12 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
         // calling brute force apporach
-        return bruteForce(strs);
+        // return bruteForce(strs);
+        //   calling hashmap apporqach
+        return hashmapApporach(strs);
     }
 
-
-     // we can solve this problem using brute force apporach
+    // we can solve this problem using brute force apporach
     // time complexity O(N^2)
     static List<List<String>> bruteForce(String[] strs) {
         List<List<String>> result = new ArrayList<>();
@@ -41,5 +42,30 @@ class Solution {
         return Arrays.equals(c1, c2);
     }
 
+    // we can solve this problem using hashmap
+    static List<List<String>> hashmapApporach(String[] strs) {
+        // Map to store the list of anagrams
+        Map<String, List<String>> anagramMap = new HashMap<>();
+
+        for (String word : strs) {
+            // Convert the word to an array of characters
+            char[] charArray = word.toCharArray();
+            // Sort the array
+            Arrays.sort(charArray);
+            // Convert back to string
+            String sortedWord = new String(charArray);
+
+            // If the sorted word is not in the map, add it with an empty list
+            if (!anagramMap.containsKey(sortedWord)) {
+                anagramMap.put(sortedWord, new ArrayList<>());
+            }
+
+            // Append the original word to the corresponding list
+            anagramMap.get(sortedWord).add(word);
+        }
+
+        // Return the grouped list of anagrams
+        return new ArrayList<>(anagramMap.values());
+    }
 
 }
