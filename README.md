@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0334-increasing-triplet-subsequence) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0739-daily-temperatures](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0739-daily-temperatures) |
 | [0817-design-hashmap](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0817-design-hashmap) |
 | [0873-guess-the-word](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0873-guess-the-word) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0383-ransom-note) |
 | [0535-encode-and-decode-tinyurl](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0535-encode-and-decode-tinyurl) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0778-reorganize-string](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0778-reorganize-string) |
 | [0817-design-hashmap](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0817-design-hashmap) |
 | [1297-maximum-number-of-balloons](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/1297-maximum-number-of-balloons) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0334-increasing-triplet-subsequence) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0778-reorganize-string](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0778-reorganize-string) |
 ## Trie
 |  |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0778-reorganize-string](https://github.com/kumarswamy2025/DSA-Questions-in-leetcode-and-GFG/tree/master/0778-reorganize-string) |
 ## Interactive
 |  |
